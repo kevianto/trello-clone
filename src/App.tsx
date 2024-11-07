@@ -5,7 +5,7 @@ function App() {
   
   return (
    
-<div className="bg-blue-500 text-white min-h-screen w-screen">
+<div className="bg-green-500 text-white min-h-screen w-screen">
    <NavBar/>
    
     </div>
