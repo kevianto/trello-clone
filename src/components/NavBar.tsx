@@ -4,7 +4,7 @@ import { IoIosLock } from "react-icons/io";
 import { IoIosHome } from "react-icons/io";
 function NavBar() {
   return (
-    <header className="md:shadow-md p-2 flex flex-col flex-row  bg-green-700 ">
+    <header className="md:shadow-md p-2  flex  flex-row  bg-green-700 ">
  <div className=" p-2 flex flex-row justify-between items-center w-full md:w-1/2">
        <h2 className="text-semibold text-xl ">welcome board</h2>
        <div className="bg-green-400  p-1 rounded-sm hover:cursor-pointer hover:px-5 transition-all duration-200 ease-in-out hover:bg-red-500">
