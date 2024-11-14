@@ -17,6 +17,11 @@ function Hero() {
           Likes: 7,
           Comments: ["Excellent","Good", "Amazing"],
         },
+        {
+          Name: "BCS 217",
+          Likes: 7,
+          Comments: ["Excellent","Good", "Amazing"],
+        },
       ],
       
     },
